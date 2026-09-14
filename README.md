@@ -26,7 +26,7 @@ PBMC RNA-seq
 Rejected: Too small
 
 Prospect Candidates:  
-- GSE272178
+- GSE272178 \
 Disease: Myocardial infarction
 Sample: Platelets
 Data: RNA-seq
@@ -38,4 +38,28 @@ Total: 78
 Processed data:
 Yes
 
-=> Final candidate for dataset chosen: GSE272178 
+- GSE310871 \
+Human: Yes
+
+Disease:
+Coronary artery disease
+
+Sample:
+Blood plasma
+
+Data:
+microRNA sequencing
+
+Groups:
+108 CAD patients
+29 non-CAD controls
+
+Total:
+137 samples
+
+Processed counts:
+Yes
+
+Final candidate for dataset chosen: GSE310871 
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE310871
