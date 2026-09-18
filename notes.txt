@@ -1,0 +1,7 @@
+Worklog Audit:
+
+15/9: Looking for papers and project design
+
+18/9: 
+* the authors already adjusted their seven-miRNA prediction models for sex and age
+* Read statistical analysis and results

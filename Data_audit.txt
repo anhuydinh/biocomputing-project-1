@@ -1,0 +1,21 @@
+GSE310871 Dataset Audit
+
+1. Total samples:137
+
+2. Groups and sample sizes:
+   Control:29
+   Early CAD: 80
+   Late CAD: 28
+
+3. Biological sample: plasma
+   
+4. What exactly was sequenced? miRNA
+
+5. What does the downloadable CSV contain? 287 rows of miRNA IDs (Column is patient samples, rows is individual miRNA)
+
+6. Original study question: does circulating miRNAs can serve as effective diagnostic biomarkers for predicting early-onset CAD?
+
+7. One possible confounding variable:smoking, obesity, diabetes mellitus, hypertension and dyslipidaemia
+
+8. One limitation of this dataset: relatively small sample size, the early CAD group had a
+significantly smaller number of female patients with CAD
